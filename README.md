@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A still-learning CS learner from NJ</h3>
+<h3 align="center">A CS student from NJ</h3>
 
 - 🔭 I’m currently working on [Thynkr](https://github.com/harryrei/thynkr3)
 
